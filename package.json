@@ -1,0 +1,14 @@
+{
+  "name": "fastify-api",
+  "version": "1.0.0",
+  "description": "fastify API to redirect users to google",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saurabh Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.3.0"
+  }
+}
